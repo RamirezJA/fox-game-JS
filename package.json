@@ -10,6 +10,9 @@
   "author": "Jose Ramirez -- Holt FEM Course",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.1.1"
   }
